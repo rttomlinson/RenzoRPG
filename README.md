@@ -1,2 +1,0 @@
-# RenzoRPG
-FirstRPGProject
